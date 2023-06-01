@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">533117454844-fj9u8tg1t0l8gmv6t7hugaecqtb18ieq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">533117454844</string>
+    <string name="google_api_key" translatable="false">AIzaSyDpgw5ccPR0IDBwu3qGIrADEwwyMJix66A</string>
+    <string name="google_app_id" translatable="false">1:533117454844:android:4345b505b1aaec516e0a79</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDpgw5ccPR0IDBwu3qGIrADEwwyMJix66A</string>
+    <string name="google_storage_bucket" translatable="false">calendar-ccfaa.appspot.com</string>
+    <string name="project_id" translatable="false">calendar-ccfaa</string>
+</resources>
